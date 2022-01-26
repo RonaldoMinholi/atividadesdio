@@ -7,7 +7,7 @@ namespace PrimeiroProjeto
         static void Main(string[] args)
         {
             var a = "Hello ";
-            var b = "World!";
+            var b = "World !";
             Console.WriteLine(a + b);
         }
     }
